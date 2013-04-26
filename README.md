@@ -7,7 +7,7 @@ I don't recommend using this program under most conditions.
 If you don't know when it would be safe -
 it wouldn't be safe.
 
-You'll need (AutoHotkey)[http://www.autohotkey.com/] to compile this. 
+You'll need [AutoHotkey](http://www.autohotkey.com/) to compile this. 
 
 There is a 
 [home page](http://www.birnel.org/~noah/software/nosleep/index.html),
