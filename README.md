@@ -9,3 +9,6 @@ it wouldn't be safe.
 
 You'll need (AutoHotkey)[http://www.autohotkey.com/] to compile this. 
 
+There is a 
+[home page](http://www.birnel.org/~noah/software/nosleep/index.html),
+where you can get the executable.
