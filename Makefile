@@ -7,7 +7,7 @@ ${PROG}.exe :: ${PROG}.ahk
 zip :: ${PROG}.zip
 
 ${PROG}.zip :: ${PROG}.exe
-	rm $@
+	rm -f $@
 	cd .. && zip -r $@ ${PROG}/$< && mv $@ ${PROG}/
 
 push :: ${PROG}.zip
