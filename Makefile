@@ -13,4 +13,4 @@ ${PROG}.zip :: ${PROG}.exe
 push :: ${PROG}.zip
 	scp $< noah@www.birnel.org:~/birnel.org/birnel.org/~noah/software/${PROG}/
 
-
+.PHONY : zip push
